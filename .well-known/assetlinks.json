@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.verbee.app",
+      "sha256_cert_fingerprints": [
+        "42:E4:AF:BA:A8:B8:79:00:92:DD:95:22:77:62:0B:39:94:AA:AE:D3:E3:BC:10:1B:29:CC:91:BA:A9:63:7A:21"
+      ]
+    }
+  }
+]
